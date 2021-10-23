@@ -62,6 +62,7 @@
 - [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit/)
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [IUCN Red List](https://github.com/devilcrucifier/iucn-red-list)
+- [Nerdify Chat App](https://github.com/nerdify/internal-chat-app)
 
 
 
